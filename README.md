@@ -1,2 +1,2 @@
-# codecloud
-构建自己的防伪平台
+# ReadPoint
+# 点读自媒体前端项目，使用Vue框架完成。
